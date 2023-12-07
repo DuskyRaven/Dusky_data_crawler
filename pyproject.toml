@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "Nikita_data_crawler"
+version = "0.1.0"
+description = ""
+authors = ["DuskyRaven <nkrucinskas@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
